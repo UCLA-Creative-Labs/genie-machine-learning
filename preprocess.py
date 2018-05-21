@@ -11,6 +11,8 @@ def format_path(path):
 def preprocess(path, path_to_save):
     path = format_path(path)
     path_to_save = format_path(path_to_save)
+    if not os.path.exists(path_to_save):
+        os.makedirs(path_to_save)
     pic_names = os.listdir(path)
     pics = ['{}/{}'.format(path,pic_name) for pic_name in pic_names]
     for pic,pic_name in zip(pics,pic_names):
