@@ -15,7 +15,8 @@ def extension(picname):
     return ext
 
 def processImg(img):
-    resized = cv2.resize(img, (720,720))
+    gray_scaled = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    resized = cv2.resize(gray_scaled, (720,720))
     blurred = cv2.medianBlur(resized, 5)
     threshed = cv2.adaptiveThreshold(blurred,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,int(len(img)/20)*2-1,11)
     return threshed
