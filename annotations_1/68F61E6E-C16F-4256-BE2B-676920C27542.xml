@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed_dataset_1</folder>
+	<filename>68F61E6E-C16F-4256-BE2B-676920C27542.png</filename>
+	<path>C:\Users\Kesava\Documents\Genie\processed_dataset_1\68F61E6E-C16F-4256-BE2B-676920C27542.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inline stepper bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>283</ymin>
+			<xmax>617</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

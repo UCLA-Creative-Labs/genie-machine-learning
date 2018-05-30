@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed_dataset_1</folder>
+	<filename>90B18EAD-8488-471B-ABEB-FE77DCED7AEE.png</filename>
+	<path>C:\Users\Kesava\Documents\Genie\processed_dataset_1\90B18EAD-8488-471B-ABEB-FE77DCED7AEE.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>picture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>211</ymin>
+			<xmax>482</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

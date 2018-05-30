@@ -1,0 +1,38 @@
+<annotation>
+	<folder>processed_dataset_1</folder>
+	<filename>BAD6D5DE-854B-45CC-B752-C7D6FEE63D6B.png</filename>
+	<path>C:\Users\Kesava\Documents\Genie\processed_dataset_1\BAD6D5DE-854B-45CC-B752-C7D6FEE63D6B.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paragraph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>169</ymin>
+			<xmax>535</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>search bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>323</ymin>
+			<xmax>523</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

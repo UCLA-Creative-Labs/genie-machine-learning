@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed_dataset_1</folder>
+	<filename>82C19BFE-189D-4F6F-8C18-3104095C5FCB.png</filename>
+	<path>C:\Users\Kesava\Documents\Genie\processed_dataset_1\82C19BFE-189D-4F6F-8C18-3104095C5FCB.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>224</ymin>
+			<xmax>637</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
