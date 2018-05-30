@@ -1,0 +1,8 @@
+picture
+search bar
+heading1
+heading2
+heading3
+paragraph
+button
+inline stepper bar
